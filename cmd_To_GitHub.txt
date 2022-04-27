@@ -1,0 +1,32 @@
+Commands: 
+
+#######################################################
+        To remember how to clone the repository
+#######################################################
+
+$ git clone "link_url"
+    - aponta os arquivos do github para a máquina local
+
+$ cd  "pasta" 
+    - vai para a pasta
+
+$ dir or ls "pasta" 
+    - para mostrar o que tem na pasta
+
+$ git remote -v 
+    - mostra o repositorio origin
+
+
+
+#######################################################
+        To remember how to PUSH to github
+#######################################################
+
+$ git add .
+    - inclui as alterações e as prepara para enviar ao servidor remoto
+
+$ git commit -m "Mensagem do commit"
+    - aponta para as alterações indicando a mensagem
+
+$ git push
+    - para fazer o up para o github
